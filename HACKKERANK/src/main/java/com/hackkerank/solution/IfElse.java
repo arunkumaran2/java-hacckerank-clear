@@ -2,7 +2,7 @@ package com.hackkerank.solution;
 
 import java.util.Scanner;
 
-public class Solution {
+public class IfElse {
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {

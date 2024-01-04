@@ -2,7 +2,7 @@ package com.hackkerank.solution;
 
 import java.util.Scanner;
 
-public class Solution1 {
+public class Printing {
 
     public static void main(String[]args)
     {

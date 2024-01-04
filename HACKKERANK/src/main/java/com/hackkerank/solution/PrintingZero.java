@@ -2,7 +2,7 @@ package com.hackkerank.solution;
 
 import java.util.Scanner;
 
-public class solution2 {
+public class PrintingZero {
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
         System.out.println("================================");
